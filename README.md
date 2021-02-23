@@ -8,7 +8,7 @@ There are many contexts, such as in a company, but also ranking content on socia
 
 In both of these cases, a group has voted to make a decision for another group of people.
 
-However, in the social media example, it is currently a pure democratic vote... 
+However, in the social media example it is currently a pure democratic vote... 
 meaning everyone’s voting power is treated equal.  Whereas in a share based vote, some people have more weighted voting power, or sway, than others.
 
 Direct democracies, or equal voting power, has the problem of drowning out an intelligent opinion with demagoguery... and therefore making an improper decision for the group.
