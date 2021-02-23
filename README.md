@@ -13,7 +13,7 @@ meaning everyone’s voting power is treated equal.  Whereas in a share based vo
 
 Direct democracies, or equal voting power, have the problem of drowning out an intelligent opinion with demagoguery... and therefore making an improper decision for the group.
 
-Whereas, share based voting potentially allows those with more wisdom to influence a vote in a more harmonious way for the group as they have more sway. (See my explanation of Ray Dalio’s weighted voted system: https://youtu.be/Jmr1ydA-VhQ?t=252 )
+Whereas, share based voting potentially allows those with more wisdom to influence a vote in a more harmonious way for the group, as they have more sway. (See my explanation of Ray Dalio’s weighted voted system: https://youtu.be/Jmr1ydA-VhQ?t=252 )
 
 On the flip side, one could argue, if corrupted, it enables bad decisions to propagate faster, like what may happen in a monarchy if a corrupted son inherits the power.
 
